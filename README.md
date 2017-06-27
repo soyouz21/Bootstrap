@@ -1,2 +1,2 @@
 # Bootstrap
-Bootstrap Excercices
+Bootstrap Exercices
